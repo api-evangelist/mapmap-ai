@@ -1,4 +1,4 @@
-# mapmap-ai
+# MapMap AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mapmap-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mapmap.ai/
+MapMap AI Ltd provides a self‑hostable navigation platform for AI agents and vehicle fleets. It offers routing for cars, vans, buses, two‑wheelers and pedestrians, with specialised truck routing and ADR dangerous‑goods compliance. The platform includes hosted APIs, an offline SDK, an MCP server, signed territory packages and a software bill of materials. Users can obtain a free tier of 50,000 calls per month and sign up for API keys directly from the website.
+
+**Areas:** Company · Navigation · AI · Mapping · Fleet
+
+## MapMap AI on APIs.io
+
+Everything profiled for MapMap AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mapmap-ai/](https://apis.io/providers/mapmap-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MapMap AI API](https://apis.io/apis/mapmap-ai/mapmap-ai-api/) — MapMap AI API as documented publicly: 95 operations. Contract generated from the documentation by API Evangelist (2026-11-17); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MapMap AI API Rules](https://apis.io/rules/mapmap-ai/mapmap-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MapMap AI Authentication](https://apis.io/security/mapmap-ai/mapmap-ai-authentication/)
+- [MapMap AI Domain Security](https://apis.io/security/mapmap-ai/mapmap-ai-domain-security/)
+- [MapMap AI Vulnerability Disclosure](https://apis.io/security/mapmap-ai/mapmap-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MapMap AI Plans Pricing](https://apis.io/plans/mapmap-ai/mapmap-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mapmap.ai/)
+- [Documentation](https://mapmap.ai/docs)
+- [Getting started](https://mapmap.ai/docs/quickstart)
+- [API reference](https://mapmap.ai/docs/api-reference)
+- [Pricing](https://mapmap.ai/pricing)
+- [Sign up](https://mapmap.ai/signup)
+- [Changelog](https://mapmap.ai/changelog)
+- [Security](https://mapmap.ai/terms)
+- [Trust centre](https://mapmap.ai/trust)
+- [Terms of service](https://mapmap.ai/terms)
+- [Privacy policy](https://mapmap.ai/privacy)
+- [GitHub](https://github.com/Mapmapai)
+
+## API Evangelist rating
+
+**Kin Score 53.4** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 28.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 65.5 |
+
+**Agent readiness 31.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mapmap-ai/](https://apis.io/providers/mapmap-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MapMap AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mapmap-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
